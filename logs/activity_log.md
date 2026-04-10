@@ -14,6 +14,6 @@
 - [x] 10:00 - Push repo và kiểm tra link nộp
 
 ## Ghi chú thêm
-- Khó khăn gặp phải:
-- Cách em xử lý:
-- Điều em học được từ bài lab:
+- Khó khăn gặp phải:chưa quen dùng github
+- Cách em xử lý: em hỏi chatgbt
+- Điều em học được từ bài lab:Em hiểu cách phân tích một sự cố theo CIA, biết xác định threat, vulnerability, mitigation, và quen hơn với quy trình làm bài bằng GitHub.
